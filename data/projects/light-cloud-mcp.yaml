@@ -1,0 +1,4 @@
+name: Light Cloud MCP Server
+repo: https://github.com/light-cloud-com/mcp-server
+tagline: MCP server to deploy apps, databases and domains on Light Cloud from opencode
+description: Local stdio MCP server (npm @light-cloud/mcp-server) with about 110 tools for the Light Cloud hosting platform. Sign up or sign in by device code, deploy from GitHub or a local folder, manage environments, logs, metrics, rollbacks, Postgres/MySQL databases (schema, SQL, dump/import), custom domains, billing and members. Works with opencode as a local MCP server (npx @light-cloud/mcp-server).
